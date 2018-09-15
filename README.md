@@ -1,5 +1,4 @@
-# NordicESMhub.github.io
-Information about the NordicESM Hub organisation
+# The NordicESM Hub organisation
 
 Source for the Nordic ESM Hub Website (nordicesmhub.github.io). It is maintained by the community through this GitHub repository. 
 
