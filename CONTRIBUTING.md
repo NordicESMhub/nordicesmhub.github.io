@@ -1,5 +1,10 @@
 # Contributing
 
+
+[![NordicESMhub chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nordicesmhub.zulip.org)
+
+
+
 [Nordic Earth System Modeling hub][nordicesmhub-site] is an open source project,
 and we welcome contributions of all kinds:
 
@@ -97,11 +102,12 @@ repository for reference while revising.
 
 ## Other Resources
 
-General discussion of [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
-happens on the [discussion mailing list][discuss-list],
+General discussion of [Nordic Earth System Modeling hub][nordicesmhub-site]
+happens on the [Nordic ESM hub zulip][nordicesmhub-zulip],
 which everyone is welcome to join.
-You can also [reach us by email][email].
 
+[nordicesmhub-zulip]: https://nordicesmhub.zulipchat.com/
+[nordicesmhub-site]: https://nordicesmhub.github.io/
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
