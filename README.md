@@ -67,18 +67,6 @@ The development of this project is mentored by [Bérénice][link_BereniceBatut] 
 More information can be found [here](https://github.com/MozillaFestival/open-leaders-7/issues/40).
 
 
-<a href="https://www.mozillascience.org/about">
-  <img
-    src="http://mozillascience.github.io/working-open-workshop/assets/images/science-fox.svg"
-    align="right"
-    width=140
-  </img>
-</a>
-
-The [Mozilla Science Lab][link_mozsci] bring together open science advocates from around the world. 
- The [training exercises][link_mozwow] (which are free and easy to reuse) focused on how to build and 
- effectively engage communities so they can work together to develop tools and resources for the greater good.
-
 ## What do we need?
 
 - Web designers/developers for setting up the Nordic ESM Hub website:
@@ -129,9 +117,3 @@ support Nordic Earth System Modeling Hub.
 
 
 [link_AnneFouilloux]: https://github.com/annefou
-[link_openleaderscohort]: https://www.mozillascience.org/wow-introducing-working-open-workshops-and-the-open-leaders-cohort
-[link_mozsci]: https://www.mozillascience.org/about
-[link_mozwow]: http://mozillascience.github.io/working-open-workshop/index.html
-[link_researchfox]: http://mozillascience.github.io/working-open-workshop/assets/images/science-fox.svg
-[link_leancanvas]: https://app.leanstack.com/canvases/p/2e4a5016-7fb5-4c77-b1cf-ed65518b7603
-[link_impostersyndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
