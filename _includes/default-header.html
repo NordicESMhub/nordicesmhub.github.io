@@ -1,0 +1,49 @@
+<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      
+      <a class="navbar-item" href="/">
+          <img src="/images/logo.png" alt="NordicESMHub Community">
+      </a>
+
+      <a
+        role="button"
+        class="navbar-burger burger"
+        aria-label="menu"
+        aria-expanded="false"
+        data-target="top-menu"
+      >
+        <span aria-hidden="true"></span> <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="top-menu" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item" href="/about"> About us </a>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link"> Projects </a>
+
+          <div class="navbar-dropdown">
+            {% for page in site.projects %}
+            <a class="navbar-item" href="{{ page.url }}"> {{ page.title }} </a>
+            {% endfor %}
+          </div>
+        </div>
+
+        <a class="navbar-item" href="/events"> Events </a>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">Protocols</a>
+
+          <div class="navbar-dropdown">
+            {% for page in site.protocols %}
+            <a class="navbar-item" href="{{ page.url }}"> {{ page.title }} </a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

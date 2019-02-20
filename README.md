@@ -76,7 +76,7 @@ More information can be found [here](https://github.com/MozillaFestival/open-lea
 - [Conda](https://conda.io/en/latest/) experts for setting up nordicesmhub conda channel so we can share our tools
 - [Galaxy](https://galaxyproject.org/) and [Python](https://www.python.org/) programmers for the development of tools
 
-To get more information, see our [roadmap](https://github.com/MozillaFestival/open-leaders-7/issues/40).
+To get more information, see our [roadmap](roadmap.md).
 
 ## Get involved
 

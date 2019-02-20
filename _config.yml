@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+# Global metadata
+title: Nordic ESM hub
+description: >
+  Welcome to the Nordic Earth System Modeling Hub!
+
+# Social
+email: annefou@geo.uio.no
+zulip: https://nordicesmhub.zulipchat.com/
+# See: https://help.github.com/articles/repository-metadata-on-github-pages/
+repository: NordicESMhub/nordicesmhub.github.io
+
+collections:
+  events:
+    permalink: /events/:path/
+    output: true
+  projects:
+    permalink: /projects/:path/
+    output: true
+  tutorials:
+    permalink: /tutorials/:path/
+    output: true

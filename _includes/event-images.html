@@ -1,0 +1,11 @@
+{% assign images = include.images|strip|split:' ' %}
+
+<section class="section event-images">
+  <div class="columns is-centered">
+    {% for image in images %}
+      <div class="column">
+        <img src="{{ image|strip }}" alt="">
+      </div>
+    {% endfor %}
+  </div>
+</section>

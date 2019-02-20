@@ -1,0 +1,27 @@
+---
+layout: default
+css: event
+---
+
+{{ content }}
+
+{% if page.twitter_moment %}
+  <section class="event-twitter-moment">
+    <h2>Check out more on Twitter</h2>
+
+    <p>
+      <a class="twitter-moment" href="{{ page.twitter_moment }}">
+        {{ page.title }}
+      </a>
+    </p>
+  </section>
+{% endif %}
+
+{% if page.photos %}
+  <section class="event-credits">
+    <p>
+      The pictures by <a href="{{ page.photos.link }}">{{ page.photos.name }}</a>
+      are licensed under {{ page.photos.license }}.
+    </p>
+  </section>
+{% endif %}

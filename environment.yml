@@ -1,0 +1,20 @@
+name: nordicesmhub_website
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2018.10.15=ha4d7672_0
+  - gettext=0.19.8.1=h1f1d5ed_1
+  - gmp=6.1.2=hfc679d8_0
+  - ncurses=6.1=hfc679d8_1
+  - openssl=1.0.2p=h470a237_1
+  - readline=7.0=haf1bffa_1
+  - ruby=2.4.4=h0825b16_1
+  - tk=8.6.9=ha92aebf_0
+  - yaml=0.1.7=h470a237_1
+  - zlib=1.2.11=h470a237_3
+  - libcxx=4.0.1=hcfea43d_1
+  - libcxxabi=4.0.1=hcfea43d_1
+  - libffi=3.2.1=h475c297_4
+prefix: /Users/annefou/miniconda3/envs/nordicesmhub_website
+
