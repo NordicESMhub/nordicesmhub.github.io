@@ -52,7 +52,7 @@ We have high ethical standards, including:
   benefits and implications
 - **Transparency**: Emphasize transparency and the sharing of ideas, knowledge, data,
   protocols and results.
-- **Open science**: Promote citizen science and decentralized access to science.
+- **Open science**: Promote open science and decentralized access to science.
 - **Modesty** Know you don't know everything.
 - **Community**: Carefully listen to any concerns and questions and respond honestly
 - **Respect**: Respect humans and all living systems.

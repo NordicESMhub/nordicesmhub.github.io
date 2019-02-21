@@ -35,10 +35,10 @@
         <a class="navbar-item" href="/events"> Events </a>
 
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">Protocols</a>
+          <a class="navbar-link">Tutorials</a>
 
           <div class="navbar-dropdown">
-            {% for page in site.protocols %}
+            {% for page in site.tutorials %}
             <a class="navbar-item" href="{{ page.url }}"> {{ page.title }} </a>
             {% endfor %}
           </div>
