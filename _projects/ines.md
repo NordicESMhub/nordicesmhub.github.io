@@ -1,7 +1,7 @@
 ---
 layout: default
 title: INES
-image: /images/ines.jpg
+image: /images/michael-jasmund-574298-unsplash.jpg
 description: Infrastructure for Norwegian Earth System modelling
 ---
 
