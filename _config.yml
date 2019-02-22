@@ -19,3 +19,20 @@ collections:
   tutorials:
     permalink: /tutorials/:path/
     output: true
+  documentation:
+    permalink: /documentation/:path/
+    output: true
+
+# ==========================================
+# Categories for sorting lessons/tutorials.
+# ==========================================
+
+topic:
+  - programming
+  - science
+  - misc
+
+levels:
+  - beginner
+  - intermediate
+  - advanced
