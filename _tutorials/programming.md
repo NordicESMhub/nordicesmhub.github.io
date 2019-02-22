@@ -1,6 +1,6 @@
 ---
 layout: default
-title: programming
+title: Programming
 image: /images/tutorials/programming.jpg
 ---
 

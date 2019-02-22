@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Science
-image: /images/tutorials/science.jpg
+image: /images/tutorials/science.png
 ---
 
 - [The General circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/)
