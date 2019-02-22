@@ -2,7 +2,7 @@
 layout: default
 title: NordicESMhub
 description: Nordic Earth System Modelling Community Hub
-image: /images/index.jpg
+image: /images/miguel-a-amutio-688753-unsplash.jpg
 ---
 
 {% include home-hero.html %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-image: /images/publication.jpg
+image: /images/susan-yin-647448-unsplash.jpg
 description: Publications 
 ---
 

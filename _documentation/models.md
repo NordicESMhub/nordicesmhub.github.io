@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Models
-image: /images/models.jpg
-description: Models used in the Nordics 
+title: Modeling
+image: /images/franck-v-512310-unsplash.jpg
+description: Earth System Models used in the Nordics 
 ---
 
 
