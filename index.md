@@ -8,17 +8,17 @@ caption_url: https://unsplash.com/photos/_uERVMle1SU?utm_source=unsplash&utm_med
 widget1:
   title: "Go to VRE"
   url: 'https://usegalaxy.eu/'
-  image: widget-1-302x182.jpg
+  image: /images/widget-1-302x182.jpg
   text: 'Run, Analyze and Visualize'
 widget2:
   title: "Learn about Climate in the Nordics"
-  url: '/about/'
-  image: widget-3-302x182.jpg
+  url: '/about'
+  image: /images/widget-3-302x182.jpg
   text: 'The climate in the Nordic countries.'
 widget3:
   title: "INES"
-  url: '/projects/ines.md'
-  image: widget-3-302x182.jpg
+  url: '/projects/ines'
+  image: /images/widget-3-302x182.jpg
   text: 'Infrastructure for Norwegian Earth System modelling.'
 homepage: true
 ---
