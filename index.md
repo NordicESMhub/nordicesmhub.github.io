@@ -16,10 +16,10 @@ widget2:
   image: /images/widget-2-302x182.jpg
   text: 'The climate in the Nordic countries.'
 widget3:
-  title: "INES"
+  title: "Contribute"
   url: '/projects/ines'
   image: /images/widget-3-302x182.jpg
-  text: 'Infrastructure for Norwegian Earth System modelling.'
+  text: '[](https://img.shields.io/badge/join%20us-on%20zulip-blue.svg) to build a Nordic Infrastructure for Earth System Modeling.'
 ---
 
 The aim of the Nordic Earth System Modeling Hub to build a Nordic ESM community within the Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway) for sharing knowledge, codes (climate models, Galaxy climate data analysis and visualization tools), 
