@@ -13,7 +13,13 @@ widget1:
 widget2:
   title: "Learn about Climate in the Nordics"
   url: '/about/'
+  image: widget-3-302x182.jpg
   text: 'The climate in the Nordic countries.'
+widget3:
+  title: "INES"
+  url: '/projects/ines.md'
+  image: widget-3-302x182.jpg
+  text: 'Infrastructure for Norwegian Earth System modelling.'
 homepage: true
 ---
 
