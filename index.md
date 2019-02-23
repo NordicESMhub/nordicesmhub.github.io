@@ -17,7 +17,7 @@ widget2:
   text: 'The climate in the Nordic countries.'
 widget3:
   title: "Contribute"
-  url: '/projects/ines'
+  url: '/CONTRIBUTING'
   image: /images/widget-3-302x182.jpg
   text: '<a href="https://nordicesmhub.zulipchat.com/"><img src="https://img.shields.io/badge/join%20us-on%20zulip-blue.svg"></a> <br> Help us to build a Nordic Infrastructure for Earth System Modeling.'
 ---

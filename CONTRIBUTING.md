@@ -1,3 +1,9 @@
+---
+layout: default
+title: Join us
+image: /images/about.jpg
+---
+
 # Contributing
 
 
