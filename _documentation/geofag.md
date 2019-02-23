@@ -1,6 +1,6 @@
 ---
 layout: default
-title: geofag-docs
+title: Geofag-docs
 image: /images/geofag.jpg
 description: Department of Geosciences@UiO
 ---
