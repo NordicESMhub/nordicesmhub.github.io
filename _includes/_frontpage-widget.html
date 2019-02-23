@@ -1,4 +1,4 @@
-<div class="medium-4 columns frontpage-widget">
+<div class="column is-centered">
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% if include.widget.video %}
 		{{ include.widget.video }}

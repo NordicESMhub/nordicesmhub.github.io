@@ -20,7 +20,6 @@ widget3:
   url: '/projects/ines'
   image: /images/widget-3-302x182.jpg
   text: 'Infrastructure for Norwegian Earth System modelling.'
-homepage: true
 ---
 
 The aim of the Nordic Earth System Modeling Hub to build a Nordic ESM community within the Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway) for sharing knowledge, codes (climate models, Galaxy climate data analysis and visualization tools), 
