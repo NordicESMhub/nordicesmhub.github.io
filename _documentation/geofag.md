@@ -2,9 +2,10 @@
 layout: default
 title: geofag-docs
 image: /images/geofag.jpg
-description: Documentation for those at UiO interested in working with computer modeling and data analysis in Earth Sciences
+description: Department of Geosciences@UiO
 ---
 
+Documentation for those at the Department of Geosciences of the University of Oslo (Norway) interested in working with computer modeling and data analysis in Earth Sciences
 
 - This [documentation](https://uio-geofag-docs.readthedocs.io/en/latest/) is generally specific to the University of Oslo.
 
