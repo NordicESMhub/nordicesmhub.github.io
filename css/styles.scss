@@ -3,6 +3,7 @@
 
 @charset "utf-8";
 
+$medium-blue: #9dc0e2;
 $light-blue: #e2f1fe;
 $beige: #fafaf0;
 $black: #000;
@@ -27,8 +28,8 @@ $link-focus: $link-hover;
 $link-active: $link-hover;
 
 $navbar-background-color: $light-blue;
-$navbar-item-hover-background-color: #e5e8dd;
-$navbar-dropdown-item-hover-background-color: #e5e8dd;
+$navbar-item-hover-background-color: $medium-blue;
+$navbar-dropdown-item-hover-background-color: $medium-blue;
 
 @import 'bulma/bulma.sass';
 
