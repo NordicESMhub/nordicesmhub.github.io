@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentation
+title: Publications
 image: /images/susan-yin-647448-unsplash.jpg
 description: about Earth System Modeling 
 ---
