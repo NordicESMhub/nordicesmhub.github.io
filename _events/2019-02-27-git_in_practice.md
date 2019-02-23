@@ -17,7 +17,7 @@ photos:
   license: CC-BY-SA
 ---
 
-This is not a Software Carpentry, but a [self-organized 1-day workshop](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190227_git) based on CodeRefinery lesson material.
+This is a [self-organized 1-day workshop](https://www.ub.uio.no/english/courses-events/courses/other/Carpentry/software-carpentry/time-and-place/190227_git) based on [CodeRefinery](https://coderefinery.org/) lesson material.
 
 **Requirements**: Software Carpentry - introduction to Git. 
 
