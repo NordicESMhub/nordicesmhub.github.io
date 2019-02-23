@@ -3,6 +3,13 @@ layout: default
 format: frontpage
 ---
 
+<section class="section">
+  <div class="container content {{ layout.css }} {{ page.css }}">
+      {{ content }}
+  </div>
+</section>
+
+
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
