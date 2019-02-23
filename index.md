@@ -13,7 +13,7 @@ widget1:
 widget2:
   title: "Learn about Climate in the Nordics"
   url: '/about'
-  image: /images/widget-3-302x182.jpg
+  image: /images/widget-2-302x182.jpg
   text: 'The climate in the Nordic countries.'
 widget3:
   title: "INES"
