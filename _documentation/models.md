@@ -7,3 +7,19 @@ description: Earth System Models used in the Nordics
 
 
 We will give here a list of relevant models we use in the Nordic countries.
+
+
+# EC-EARTH
+
+# NorESM
+
+# Oslo-CTM3
+
+# CESM
+
+# WRF/WRF-CHEM
+
+# FLEXPART
+
+# OpenIFS
+
