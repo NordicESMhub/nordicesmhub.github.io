@@ -37,6 +37,7 @@ or a factual error.
 This is a good way to introduce yourself
 and to meet some of our community members.
 
+
 1.  If you have a [GitHub][github] account,
     or are willing to [create one][github-join],
     but do not know how to use Git,
@@ -46,17 +47,22 @@ and to meet some of our community members.
 
 2.  If you are comfortable with Git,
     and would like to add or change material,
-    you can submit a pull request (PR).
+    you can browse the list of existing issues (see [below](#where-to-contribute))
+	and submit a pull request (PR).
     Instructions for doing this are [included below](#using-github).
 
 ## Where to Contribute
+
+[NordicESMhub repositories](https://github.com/NordicESMhub) have many open issues where you are welcome to contribute.
 
 1.  If you wish to change this repository,
     please work in <https://github.com/NordicESMhub/nordicesmhub.github.io>,
     which can be viewed at <https://nordicesmhub.github.io/>.
 
 2.  If you wish to change another repository in the NordicESMhub organization,
-    please review CONTRIBUTING.md guideline of the corresponding repository.
+    please review CONTRIBUTING.md guideline of the corresponding repository. In the 
+	[section below](#what-to-contribute), we list priority areas but these are mostly
+	to help you to find where to contribute.
 
 3.  If you wish to add a new repository in the NordicESMhub organization, 
     create a [new issue](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/new)
@@ -78,6 +84,20 @@ Reviews from novices and newcomers are particularly valuable:
 it's easy for people who have been using these lessons for a while
 to forget how impenetrable some of this material can be,
 so fresh eyes are always welcome.
+
+### Priorities
+
+Here is a non-exhaustive list of repositories for which we need your help:
+
+- [NordicESMHub website](https://github.com/NordicESMhub/nordicesmhub.github.io): the overall structure of the website has been defined
+  but many sections are still empty. See [issues](https://github.com/NordicESMhub/nordicesmhub.github.io/issues) to know more on where to contribute.
+- [Geofag-docs](https://github.com/NordicESMhub/geofag-docs): if you are working in Norway at the University of Oslo, you may be interested in contributing to the Geofag documentation.
+  The objective is to migrate the current [Geosciences Modeling Wiki](https://wiki.uio.no/mn/geo/geoit/index.php/Welcome_to_Geosciences_Modeling_Wiki) to [Geofag-docs](https://uio-geofag-docs.readthedocs.io/en/latest/).
+  However, we would like to mostly enumerate what is UiO specific and have the more general documentation in [NordicESMhub website](https://nordicesmhub.github.io/).
+- [ESM conda tools](https://github.com/NordicESMhub/esmconda-recipes)
+- [Galaxy Climate tools](https://github.com/NordicESMhub/galaxy-climate). See [issues](https://github.com/NordicESMhub/galaxy-climate/issues) to know what we need in priority.
+- [Oslo-CTM3 documentation](https://github.com/NordicESMhub/OsloCTM3-docs) which you can view [here](https://osloctm3-docs.readthedocs.io/en/latest/).
+- [NorESM documentation](https://github.com/NorESMhub/NorESM-docs) which you can view [here](https://noresm-docs.readthedocs.io/en/latest/).
 
 ## Using GitHub
 
