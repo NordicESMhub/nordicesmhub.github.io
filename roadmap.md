@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Join us
+title: Roadmap
 image: /images/simon-matzinger-202022-unsplash.jpg
 ---
 
