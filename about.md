@@ -70,8 +70,8 @@ with the public.
 
 If you think you can help or are willing to contribute
 then please check out [our contributors'
-guidelines]({{ site.github.repository_url }}/blob/master/CONTRIBUTING.md) and
-our [roadmap]({{ site.github.repository_url }}/blob/master/roadmap.md).
+guidelines](/CONTRIBUTING) and
+our [roadmap](roadmap).
 
 Please note that it's very important to us that we maintain a positive and
 supportive environment for everyone who wants to participate. When you join us

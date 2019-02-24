@@ -1,3 +1,9 @@
+---
+layout: default
+title: Join us
+image: /images/simon-matzinger-202022-unsplash.jpg
+---
+
 # Roadmap
 
 _A hub for sharing knowledge and resources on Earth System Modelling in the Nordic countries_.
