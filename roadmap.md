@@ -35,7 +35,7 @@ Update https://github.com/NordicESMhub/nordicesmhub.github.io to show:
 - Development of Earth System Modeling tools for Galaxy
 - Deployment of Earth System Modeling tools in the Galaxy tool shed
 
-### **Milestone**: Galaxy Training for Earth System Modelling
+### **Milestone**: [Galaxy Training for Earth System Modelling](https://github.com/NordicESMhub/galaxy-climate/milestone/2)
 
 Organize a workshop for learning on
 -  how to use Galaxy for Earth System Modelling
