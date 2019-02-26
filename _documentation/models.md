@@ -17,6 +17,8 @@ We will give here a list of relevant models we use in the Nordic countries.
 
 # CESM
 
+[CESM](http://www.cesm.ucar.edu/models/) is a fully-coupled, community, global climate model that provides state-of-the-art computer simulations of the Earth's past, present, and future climate states.
+
 # WRF/WRF-CHEM
 
 # FLEXPART
