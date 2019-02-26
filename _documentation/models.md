@@ -13,7 +13,7 @@ We will give here a list of relevant models we use in the Nordic countries.
 
 # NorESM
 
-NorESM is a global earth system model based on the CESM but with different components for the ocean and atmospheric chemistry-aerosol-cloud-radiation.
+[NorESM](https://noresm-docs.readthedocs.io/en/latest/) is a global earth system model based on the CESM but with different components for the ocean and atmospheric chemistry-aerosol-cloud-radiation.
 
 # Oslo-CTM3
 
