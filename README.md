@@ -107,6 +107,10 @@ You can also hang out, ask questions and share stories in the
 Thank you so much for visiting the project and we do hope that you'll join us on this amazing journey to 
 support Nordic Earth System Modeling Hub.
 
+We would like to thank [StreetScienceCommunity](https://streetscience.community/) for creating the website template. We copied it from [StreetScienceCommunity Github](https://github.com/StreetScienceCommunity/StreetScienceCommunity.github.io).
+
+Most pictures are from [Unsplash](https://unsplash.com/).
+
 ## Glossary
 
 * **README file**: a document that introduces an open project to the public and any potential contributors
