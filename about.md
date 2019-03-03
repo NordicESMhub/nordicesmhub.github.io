@@ -4,6 +4,8 @@ title: About us
 image: /images/about.jpg
 ---
 
+{% include improve.html %}
+
 ## What are we doing?
 
 **Vision/Mission statement:**
