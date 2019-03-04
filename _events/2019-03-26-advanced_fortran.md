@@ -7,9 +7,9 @@ description: 'March, 26-28, 2019'
 starts: 2019-03-26
 ends: 2019-03-28
 location:
-  city: Oslo
-  region: Oslo
-  country: Norway
+  city: Espoo
+  region: Espoo
+  country: Finland
 supporters:
   - PRACE Training
 photos:
