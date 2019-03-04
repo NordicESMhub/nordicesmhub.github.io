@@ -13,8 +13,8 @@ location:
 supporters:
   - PRACE Training
 photos:
-  name: CSC
-  license: 
+  name: Unsplash
+  license: Unsplash License
 ---
 
 This is a 3-day workshop.
