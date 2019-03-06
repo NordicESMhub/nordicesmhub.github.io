@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LATICE
-image: http://www.ec-earth.org/wp-content/uploads/2018/06/20180505_142914-2-1-1024x344.jpg
+image: https://www.mn.uio.no/geo/english/research/groups/latice/bilder-pdf/latice-mainimage280px.jpg
 description: Land-ATmosphere Interactions in Cold Environments
 ---
 
