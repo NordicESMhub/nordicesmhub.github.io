@@ -7,7 +7,7 @@ caption: Photo by Miguel A. Amutio on Unsplash
 caption_url: https://unsplash.com/photos/_uERVMle1SU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 widget1:
   title: "Learn about Climate in the Nordics"
-  url: '/about'
+  url: '/climate'
   image: /images/widget-2-302x182.jpg
   text: 'The climate in the Nordic countries.'
 widget2:
