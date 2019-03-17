@@ -95,7 +95,7 @@ Here is a non-exhaustive list of repositories for which we need your help:
   The objective is to migrate the current [Geosciences Modeling Wiki](https://wiki.uio.no/mn/geo/geoit/index.php/Welcome_to_Geosciences_Modeling_Wiki) to [Geofag-docs](https://uio-geofag-docs.readthedocs.io/en/latest/).
   However, we would like to mostly enumerate what is UiO specific and have the more general documentation in [NordicESMhub website](https://nordicesmhub.github.io/).
 - [ESM conda tools](https://github.com/NordicESMhub/esmconda-recipes)
-- [Galaxy Climate tools](https://github.com/NordicESMhub/galaxy-climate). See [issues](https://github.com/NordicESMhub/galaxy-climate/issues) to know what we need in priority.
+- [Galaxy Climate tools](https://github.com/NordicESMhub/galaxy-tools). See [issues](https://github.com/NordicESMhub/galaxy-tools/issues) to know what we need in priority. Have a look to the list of [projects](https://github.com/NordicESMhub/galaxy-tools/projects) that are aiming to demonstrate the use of climate data for multidisciplinary studies.
 - [Oslo-CTM3 documentation](https://github.com/NordicESMhub/OsloCTM3-docs) which you can view [here](https://osloctm3-docs.readthedocs.io/en/latest/).
 - [NorESM documentation](https://github.com/NorESMhub/NorESM-docs) which you can view [here](https://noresm-docs.readthedocs.io/en/latest/).
 
