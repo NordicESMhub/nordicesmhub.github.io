@@ -36,7 +36,7 @@ similar problems within your own University and country.
 
 ## Who are we?
 
-The founder of the NordicESMHub is [Anne][link_AnneFouilloux]. 
+The founder of the NordicESMHub is [Anne](https://annefou.github.io/). 
 
 <div class="people">
   {% for entry in site.data['people'] %}
