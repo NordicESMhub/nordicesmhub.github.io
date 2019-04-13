@@ -1,6 +1,6 @@
 ---
 layout: event
-image: /images/events/2019-06-03-coderefinery/workshop.png
+image: /images/events/coderefinery/workshop.png
 tags: [carpentries@UiO, CodeRefinery, training]
 title: 'CodeRefinery workshop in Oslo'
 description: 'June, 3-5, 2019'
@@ -39,4 +39,7 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 
 Register [here](https://coderefinery.org/workshops/2019-06-03-oslo/).
 
+{% include event-images.html images="
+  /images/events/2019-06-03-coderefinery/workshop.png
+%}
 
