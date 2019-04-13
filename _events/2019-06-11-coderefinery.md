@@ -2,7 +2,7 @@
 layout: event
 image: /images/events/coderefinery/workshop.png
 tags: [carpentries@UiO, CodeRefinery, training]
-title: 'CodeRefinery workshop in Oslo'
+title: 'CodeRefinery workshop in Aalborg'
 description: 'June, 11-13, 2019'
 starts: 2019-06-11
 ends: 2019-06-13
