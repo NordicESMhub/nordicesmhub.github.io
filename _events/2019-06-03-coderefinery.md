@@ -40,6 +40,6 @@ Participants must bring a laptop with a Mac, Linux, or Windows operating system 
 Register [here](https://coderefinery.org/workshops/2019-06-03-oslo/).
 
 {% include event-images.html images="
-  /images/events/2019-06-03-coderefinery/workshop.png
+  /images/events/2019-06-03-coderefinery/workshop.png"
 %}
 
