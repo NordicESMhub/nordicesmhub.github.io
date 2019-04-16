@@ -1,24 +1,22 @@
 
 See [https://foundation.mozilla.org/en/opportunity/open-events-guide/pop-your-event/](https://foundation.mozilla.org/en/opportunity/open-events-guide/pop-your-event/) for an example.
 
-PURPOSE:
+### PURPOSE:
 
-To provide an open, lightweight, easy to use, text-based standalone guide to building open events of all kinds
-
-To share knowledge, codes (climate models, tools for analyzing climate data and visualization tools), inform about training opportunities within the Nordic countries Denmark, Finland, Sweden, Iceland, Estonia, Norway) to help anyone to better understand climate changes at high-latitudes.
+To connect students, researchers and citizen living in a Nordic country (Denmark, Finland, Sweden, Iceland, Estonia, Norway) so they can collaborate and share knowledge, tools and codes (climate models, tools for analyzing climate data and visualization tools) used for studying climate changes at high latitudes. The reason is that Nordic countries are large but with few inhabitants. So your closest colleague (in distance and time to travel) is often located in a neighbouring country.
 
 
-OUTCOMES:
+### OUTCOMES:
 
-- People get information on climate at high latitudes and why and how climate change impact our community.
-- Our community can discuss and share knowledge about climate at high latitudes.
-- Information on climate models, climate data analysis and visualisation that can be used to study climate impacts at high latitudes can be easily found and/or added by our community.
-- Training opportunities in the Nordics are regularly posted.
+- People add/get informed on [nordicESMHub website](https://nordicesmhub.github.io/) about Climate E-Science (climate modelling, data analysis and visualization, programming) training opportunities that are close to where they live and work,
+- People add/update information on climate models, climate data analysis and visualisations that they use to study climate changes at high latitudes,
+- Our community fosters a culture of sharing best practices for Climate modeling in the Nordics
 
-PROCESS:
+### PROCESS:
 
-- Create a Github organization to gather information about tools, climate models used in the Nordic countries. Add links to international initiatives too.
-- Create new repositories (website, galaxy tools)
-- Research new resources with help from colleagues and community
+- Create [NordicESMHub Github organization](https://github.com/NordicESMhub) to gather information about tools, climate models used in the Nordic countries. Add links to international initiatives that are relevant for our community too.
+- Create [NordicESMHub website](https://nordicesmhub.github.io/) with guidelines on how to contribute so that it can be updated by our community
+- Create new repositories for sharing codes (climate models, visualization, diagnostic tools, etc.)
+- Get new resources with help from colleagues and community
 - Write up guides on how to contribute
 - Request feedback and invite contributions
