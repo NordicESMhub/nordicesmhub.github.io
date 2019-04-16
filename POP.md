@@ -1,6 +1,12 @@
 
 See [https://foundation.mozilla.org/en/opportunity/open-events-guide/pop-your-event/](https://foundation.mozilla.org/en/opportunity/open-events-guide/pop-your-event/) for an example.
 
+## Vision
+
+*A hub for sharing knowledge and resources on Earth System Modelling in the Nordic countries.*
+
+The NordicESMHub github organization provides the Nordic Earth System Modeling Community with a focal point for sharing knowledge, codes (climate models, Galaxy climate data analysis and visualization tools), training tutorials.
+
 ### PURPOSE:
 
 To connect students, researchers and citizen living in a Nordic country (Denmark, Finland, Sweden, Iceland, Estonia, Norway) so they can collaborate and share knowledge, tools and codes (climate models, tools for analyzing climate data and visualization tools) used for studying climate changes at high latitudes. The reason is that Nordic countries are large but with few inhabitants. So your closest colleague (in distance and time to travel) is often located in a neighbouring country.
