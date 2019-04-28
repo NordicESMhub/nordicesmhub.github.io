@@ -11,7 +11,7 @@ widget1:
   image: /images/widget-2-302x182.jpg
   text: 'The climate in the Nordic countries.'
 widget2:
-  title: "Go to VRE"
+  title: "Go to Galaxy/Europe"
   url: 'https://usegalaxy.eu/'
   image: /images/widget-1-302x182.jpg
   text: 'Run, Analyze and Visualize'
