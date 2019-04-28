@@ -31,13 +31,11 @@ Jump straight to one of the sections below, or just scroll down to find out more
 
 **Vision/Mission statement:**
 
-The aim of the Nordic Earth System Modeling Hub to build a Nordic ESM community within the 
-Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway) for sharing knowledge, 
-codes (climate models, Galaxy climate data analysis and visualization tools), 
-training tutorials so that our contributions to the Coupled Model 
-Intercomparison Project can be easily exploited/reused within the Nordic countries and beyond, 
-and by other communities.
+*A hub for sharing knowledge and resources to study the Earth's climate and the regional impact of global changes in the Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway).*
 
+The NordicESMHub github organization is a focal point for sharing knowledge, codes (climate models, Galaxy climate data analysis and visualization tools), data and training material.
+
+The focal point or centre of the hub is the [NordicESMHub website](https://nordicesmhub.github.io/)
 
 ### The problem
 
@@ -53,7 +51,7 @@ similar problems within your own University and country.
 
 * provide the Nordic ESM community with up to date information (i.e. documentation that can be easily updated by contributors)
 * connect students, PhDs, postdocs and researchers by providing a knowledge map, listing skills and competences.
-* make the Nordic contributions more visible and favor new collaborations.
+* make the Nordic contributions more visible and favor new collaborations, including international initiatives.
 
 
 ## Who are we?
@@ -109,6 +107,10 @@ support Nordic Earth System Modeling Hub.
 
 We would like to thank [StreetScienceCommunity](https://streetscience.community/) for creating the website template. We copied it from [StreetScienceCommunity Github](https://github.com/StreetScienceCommunity/StreetScienceCommunity.github.io).
 
+A big thank you to [Bérénice Batut][link_BereniceBatut] and [Björn Grüning][link_BjornGruning] for believing in our project and providing all the necessary help we needed to have a smooth and efficient start. 
+
+[Bérénice Batut][link_BereniceBatut] got the fantastic idea to invite us to the [Galaxy training and hackathon at Roscoff/France](https://nordicesmhub.github.io/events/2019-04-23-galaxy-roscoff/), a 4-days workshop organized by the [ELIXIR Galaxy Community](https://elixir-europe.org/communities/galaxy). This event was just awesome!
+
 Most pictures are from [Unsplash](https://unsplash.com/).
 
 ## Glossary
@@ -121,3 +123,5 @@ Most pictures are from [Unsplash](https://unsplash.com/).
 
 
 [link_AnneFouilloux]: https://github.com/annefou
+[link_BereniceBatut]: http://bebatut.fr/
+[link_BjornGruning]: https://github.com/bgruening
