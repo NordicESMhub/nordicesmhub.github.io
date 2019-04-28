@@ -28,7 +28,7 @@ Update https://github.com/NordicESMhub/nordicesmhub.github.io to show:
 
 ### **Milestone**: [Tools packaging with conda](https://github.com/NordicESMhub/esmconda-recipes/milestone/1)
 
-- NordicESMhub conda channel can be fed automatically through https://github.com/NordicESMhub/esmconda-recipes 
+- NordicESMhub conda channel can be fed automatically through https://github.com/NordicESMhub/esmconda-recipes or https://github.com/bioconda/bioconda-recipes
 
 ### **Milestone**: [Galaxy tools](https://github.com/NordicESMhub/galaxy-climate/milestone/1)
 
