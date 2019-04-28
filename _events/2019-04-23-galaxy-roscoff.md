@@ -206,6 +206,40 @@ because the python code still has some problems (names of icelandic volcanoes co
 being able to publish 3 new tools in the Galaxy Toolshed and more importantly having the framework for publishing
 new tools made our day!
 
+# Thank you!
+
+This [Galaxy training and Hackathon](https://galaxyproject.eu/event/2019-01-28-roscoff-workshop/) was 
+really well organized and a big success for the Climate Community. 
+ 
+ A big thank you to all the Scientific coordinators and trainers:
+ 
+- **Gildas Le Corguillé (ELIXIR-FR, IFB)**
+
+Sorbonne Université/CNRS, ABiMS, Station Biologique de Roscoff, France
+
+- **Bérénice Batut (ELIXIR-DE, de.NBI)**
+
+Freiburg Galaxy team, Backofen lab, University of Freiburg, Germany
+
+- **Anthony Bretaudeau (ELIXIR-FR, IFB)**
+
+INRA, BIPAA/GenOuest, Rennes, France
+
+- **Björn Grüning (ELIXIR-DE, de.NBI)**
+
+Freiburg Galaxy team, Backofen lab, University of Freiburg, Germany
+
+- **Loraine Guéguen (ELIXIR-FR, IFB)**
+
+CNRS/Sorbonne Université, ABiMS, Station Biologique de Roscoff, France 
+
+And to all participants. These 4 days were really great!
+
+
+{% include event-images.html images="
+  /images/events/galaxy/thanks.png"
+%}
+
 [link_AnneFouilloux]: https://github.com/annefou
 [link_BereniceBatut]: http://bebatut.fr/
 [link_BjornGruning]: https://github.com/bgruening
