@@ -1,6 +1,6 @@
 ---
 layout: event
-image: /images/events/galaxy/workshop.png
+image: /images/events/galaxy/workshop.jpg
 tags: [Galaxy@Europe, hackathon, training]
 title: 'Galaxy training and hackathon at Roscoff/France'
 description: 'April, 23-26, 2019'
