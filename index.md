@@ -23,7 +23,7 @@ widget3:
 ---
 
 
-*A hub for sharing knowledge and resources to study the Earth's climate and the regional impact of global changes in the Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway).*
+*A hub for sharing knowledge and resources to study the Earth's climate and the regional impact of global changes in the Nordic countries.*
 
 The aim of the Nordic Earth System Modeling Hub to build a Nordic ESM community within the Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway) for sharing knowledge, codes (climate models, Galaxy climate data analysis and visualization tools), data and
 training tutorials.
