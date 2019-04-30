@@ -8,7 +8,7 @@ description: about Earth System Modeling
 
 # Nordic ESMHub Newletter
 
-Subscribe to the [Nordic Earth System Modeling newletter](https://tinyletter.com/NordicESMHub).
+Subscribe to the [Nordic Earth System Modeling Hub newsletter](https://tinyletter.com/NordicESMHub).
          
 # Scientific Publications
 
