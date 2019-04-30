@@ -6,4 +6,10 @@ description: about Earth System Modeling
 ---
 
 
+# Nordic ESMHub Newletter
+
+Subscribe to the [Nordic Earth System Modeling newletter](https://tinyletter.com/NordicESMHub).
+         
+# Scientific Publications
+
 We will give here a list of relevant publications about Earth System Modeling in the Nordics.
