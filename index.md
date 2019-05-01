@@ -28,3 +28,7 @@ widget3:
 ### Purpose
 
 To connect students, researchers and citizen living in Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway) so they can collaborate and share knowledge, tools and codes (climate models, tools for analyzing climate data and visualization tools) used for studying climate changes at high latitudes. The reason is that Nordic countries are large but with few inhabitants. So your closest colleague (in distance and time to travel) can very often be located in a neighbouring country.
+
+### NordicESMHub newsletter
+
+Subscribe to the [Nordic Earth System Modeling Hub newsletter](https://tinyletter.com/NordicESMHub).
