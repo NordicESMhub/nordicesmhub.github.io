@@ -29,6 +29,10 @@ widget3:
 
 To connect students, researchers and citizen living in Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway) so they can collaborate and share knowledge, tools and codes (climate models, tools for analyzing climate data and visualization tools) used for studying climate changes at high latitudes. The reason is that Nordic countries are large but with few inhabitants. So your closest colleague (in distance and time to travel) can very often be located in a neighbouring country.
 
+**This project has been launched thanks to [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/) Program [Round 7](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-7/). We are particularly grateful to [Bérénice][link_BereniceBatut] who was more than just our mentor. We could not have started this project in a better way! THANK YOU!!!**
+
 ### NordicESMHub newsletter
 
 Subscribe to the [Nordic Earth System Modeling Hub newsletter](https://tinyletter.com/NordicESMHub).
+
+[link_BereniceBatut]: http://bebatut.fr/
