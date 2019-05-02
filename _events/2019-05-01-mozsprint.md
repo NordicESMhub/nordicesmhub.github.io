@@ -24,9 +24,8 @@ photos:
 ## Mozsprint May 2019 : Sprint for Internet Health
 
 - During the month of May, 2019 feel free to get involved with NordicESMHub by following the issues on GitHub
-- https://github.com/NordicESMhub/galaxy-tools/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint
-- https://github.com/NordicESMhub/nordicesmhub.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint
-- And ping me if needed! Thank you.
+- [galaxy-tools mozsprint issues](https://github.com/NordicESMhub/galaxy-tools/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint)
+- [NordicESMHub website mozsprint issues](https://github.com/NordicESMhub/nordicesmhub.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint)
 
 #### Help us to fix out github issues during MozSprint 2019!
 
@@ -36,14 +35,14 @@ We created a Github organization called [NordicESMHub](https://github.com/Nordic
 
 **THANK YOU!!!**
 
-- https://github.com/NordicESMhub
-- https://nordicesmhub.github.io/
-- https://nordicesmhub.github.io/CONTRIBUTING
+- [NordicESMHub Github Organization](https://github.com/NordicESMhub)
+- [NordicESMHub website](https://nordicesmhub.github.io/)
+- [CONTRIBUTING guidelines](https://nordicesmhub.github.io/CONTRIBUTING)
 
 
 ### Where can you help?
 
-- Review the content of our website  https://nordicesmhub.github.io/ and fix typos or factual errors. Use the “Improve this page” panel at the top of each page to suggest changes.
+- Review the content of our [NordicESMHub website](https://nordicesmhub.github.io/) and fix typos or factual errors. Use the “Improve this page” panel at the top of each page to suggest changes.
 - Are you able to write a few lines of text about Climate in the Nordic countries (at high latitudes) and the regional impact of climate changes? See [issue 11](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/11)
 - Do you know an interesting publication about Climate at high latitudes, impact on citizen, etc.? Would you mind adding it to our website? See [issue 4](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/4)
 -  Do you know how to generate and display a geographical map with locations extracted from markdown file? See [issue 10](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/10)
