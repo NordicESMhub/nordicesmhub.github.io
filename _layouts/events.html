@@ -3,6 +3,12 @@ layout: default
 css: events
 ---
 
+<section class="section">
+  <div class="container content {{ layout.css }} {{ page.css }}">
+      {{ content }}
+  </div>
+</section>
+
 {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} {%
 assign events = site.events | sort:"starts" | reverse %}
 
