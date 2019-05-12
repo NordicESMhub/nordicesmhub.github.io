@@ -27,3 +27,4 @@ image: /images/tutorials/markus-spiske-221494-unsplash.jpg
 
 # Advanced
 
+- [Introduction to Conda, jupyter(hub) and cloud computing](https://nordicesmhub.github.io/datasharing/)
