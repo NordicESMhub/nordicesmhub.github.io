@@ -15,6 +15,6 @@ The objectives of INES are:
 
 - For efficient sharing of model data, provide an infrastructure that connects to international data grids and ensures that model data complies with established standards of the climate community.
 
-More information can be found [here](https://www.nersc.no/project/ines)
+More information can be found [here](https://noresmhub.github.io/INES/)
 
 {% include projects/ines.html %}
