@@ -7,7 +7,7 @@ image: /images/about.jpg
 # Contributing
 
 
-[![NordicESMhub chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nordicesmhub.zulip.org)
+[![NordicESMhub chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nordicesmhub.zulipchat.com/)
 
 
 
