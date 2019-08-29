@@ -15,6 +15,8 @@ As a part of the [EVA](https://www.nersc.no/project/eva) project, where scientis
 # Intermediate
 
 - [Getting your hands-on Climate data](https://nordicesmhub.github.io/climate-data-tutorial/)
+- [Interactive maps in the Jupyter notebook](https://annefou.github.io/jupyter_maps/)
+
 
 # Advanced
 
