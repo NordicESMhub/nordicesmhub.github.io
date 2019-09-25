@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: "CMIP"
   url: 'https://www.wcrp-climate.org/wgcm-cmip'
-  image: /images/widget-5-302x182.jpg
+  image: /images/widget-6-302x182.jpg
   text: 'WCRP Coupled Model Intercomparison Project'
 widget4:
   title: "Go to Galaxy Climate/Europe"
@@ -28,7 +28,7 @@ widget4:
 widget5:
   title: "Contribute"
   url: '/CONTRIBUTING'
-  image: /images/widget-3-302x182.jpg
+  image: /images/widget-4-302x182.jpg
   text: '<a href="https://nordicesmhub.zulipchat.com/"><img src="https://img.shields.io/badge/join%20us-on%20zulip-blue.svg"></a> <br> Help us to monitor climate in the Nordic and to build a Nordic Infrastructure for Earth System Modeling.'
 widget6:
   title: "NordicESMHub newsletter"
