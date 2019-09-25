@@ -13,7 +13,7 @@ widget1:
 widget2:
   title: "Discover Earth System Models"
   url: '/documentation/models'
-  image: /images/widget-3-302x182.jpg
+  image: /images/widget-7-302x182.jpg
   text: 'Climate models in use in the Nordic countries'
 widget3:
   title: "CMIP"
