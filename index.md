@@ -11,15 +11,30 @@ widget1:
   image: /images/widget-2-302x182.jpg
   text: 'The climate in the Nordic countries.'
 widget2:
+  title: "Discover Earth System Models"
+  url: '/documentation/models'
+  image: /images/widget-3-302x182.jpg
+  text: 'Climate models in use in the Nordic countries'
+widget3:
+  title: "CMIP"
+  url: 'https://www.wcrp-climate.org/wgcm-cmip'
+  image: /images/widget-5-302x182.jpg
+  text: 'WCRP Coupled Model Intercomparison Project'
+widget4:
   title: "Go to Galaxy Climate/Europe"
   url: 'https://climate.usegalaxy.eu/'
   image: /images/widget-1-302x182.jpg
-  text: 'Run, Analyze and Visualize'
-widget3:
+  text: 'Run, Analyze and Visualize.'
+widget5:
   title: "Contribute"
   url: '/CONTRIBUTING'
   image: /images/widget-3-302x182.jpg
   text: '<a href="https://nordicesmhub.zulipchat.com/"><img src="https://img.shields.io/badge/join%20us-on%20zulip-blue.svg"></a> <br> Help us to monitor climate in the Nordic and to build a Nordic Infrastructure for Earth System Modeling.'
+widget6:
+  title: "NordicESMHub newsletter"
+  url: 'https://tinyletter.com/NordicESMHub/subscribe'
+  image: /images/widget-5-302x182.jpg
+  text: 'Subscribe to the Nordic Earth System Modeling Hub newsletter.'
 ---
 
 
@@ -29,14 +44,3 @@ widget3:
 
 To connect students, researchers and citizen living in Nordic countries (Denmark, Finland, Sweden, Iceland, Estonia, Norway) so they can collaborate and share knowledge, tools and codes (climate models, tools for analyzing climate data and visualization tools) used for studying climate changes at high latitudes. The reason is that Nordic countries are large but with few inhabitants. So your closest colleague (in distance and time to travel) can very often be located in a neighbouring country.
 
-### NordicESMHub newsletter
-
-Subscribe to the Nordic Earth System Modeling Hub newsletter.
-
- <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/NordicESMHub" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/NordicESMHub', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-         
-
-
-**This project has been launched thanks to [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/) Program [Round 7](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-7/). We are particularly grateful to [Bérénice][link_BereniceBatut] who was more than just our mentor. We could not have started this project in a better way! THANK YOU!!!**
-
-[link_BereniceBatut]: http://bebatut.fr/
