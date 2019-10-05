@@ -90,15 +90,25 @@ so fresh eyes are always welcome.
 Here is a non-exhaustive list of repositories for which we need your help:
 
 - [NordicESMHub website](https://github.com/NordicESMhub/nordicesmhub.github.io): the overall structure of the website has been defined
-  but many sections are still empty. See [issues](https://github.com/NordicESMhub/nordicesmhub.github.io/issues) to know more on where to contribute.
+  but many sections are still empty. 
+  	- [Add information on Climate in the Nordic countries](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/11)
+	- [Add a new section on Earth System Tools (ESMValTool, etc.)](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/14)
+	- [Tell us who you are and what projects you are working on](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/9)
+	- [Add links to your favourite publications on our website](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/4)
+	- [Add information on Earth System Models](https://github.com/NordicESMhub/nordicesmhub.github.io/issues/3)
+		- [Oslo-CTM3 documentation](https://github.com/NordicESMhub/OsloCTM3-docs) which you can view [here](https://osloctm3-docs.readthedocs.io/en/latest/).
+		- [NorESM documentation](https://github.com/NorESMhub/NorESM-docs) which you can view [here](https://noresm-docs.readthedocs.io/en/latest/).
+  
+  See [issues](https://github.com/NordicESMhub/nordicesmhub.github.io/issues) to know more on where to contribute.
+
+- [Galaxy Climate tools](https://github.com/NordicESMhub/galaxy-tools). See [issues](https://github.com/NordicESMhub/galaxy-tools/issues) to know what we need in priority. Have a look to the list of [projects](https://github.com/NordicESMhub/galaxy-tools/projects) that are aiming to demonstrate the use of climate data for multidisciplinary studies.
+
+#### For UiO folks
+
 - [Geofag-docs](https://github.com/NordicESMhub/geofag-docs): if you are working in Norway at the University of Oslo, you may be interested in contributing to the Geofag documentation.
   The objective is to migrate the current [Geosciences Modeling Wiki](https://wiki.uio.no/mn/geo/geoit/index.php/Welcome_to_Geosciences_Modeling_Wiki) to [Geofag-docs](https://uio-geofag-docs.readthedocs.io/en/latest/).
   However, we would like to mostly enumerate what is UiO specific and have the more general documentation in [NordicESMhub website](https://nordicesmhub.github.io/).
-- [ESM conda tools](https://github.com/NordicESMhub/esmconda-recipes)
-- [Galaxy Climate tools](https://github.com/NordicESMhub/galaxy-tools). See [issues](https://github.com/NordicESMhub/galaxy-tools/issues) to know what we need in priority. Have a look to the list of [projects](https://github.com/NordicESMhub/galaxy-tools/projects) that are aiming to demonstrate the use of climate data for multidisciplinary studies.
-- [Oslo-CTM3 documentation](https://github.com/NordicESMhub/OsloCTM3-docs) which you can view [here](https://osloctm3-docs.readthedocs.io/en/latest/).
-- [NorESM documentation](https://github.com/NorESMhub/NorESM-docs) which you can view [here](https://noresm-docs.readthedocs.io/en/latest/).
-
+  
 ## Using GitHub
 
 If you choose to contribute via GitHub, you may want to look at
