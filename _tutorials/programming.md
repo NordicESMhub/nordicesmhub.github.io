@@ -23,7 +23,7 @@ image: /images/tutorials/markus-spiske-221494-unsplash.jpg
 - [Working with Spatio-temporal Data in Python](https://annefou.github.io/metos_python/)
 - [Reproducible Research with Interactive Jupyter Dashboards](https://annefou.github.io/jupyter_dashboards/)
 - [Publication ready scientific reports and presentations with Jupyter notebooks](https://annefou.github.io/jupyter_publish/)
-- [Learn Deep learning with Python](https://uiohive.github.io/deep-learning_intro/)
+- [Learn Deep learning with Python](https://carpentries-incubator.github.io/deep-learning_intro/)
 
 # Advanced
 
