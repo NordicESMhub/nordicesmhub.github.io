@@ -19,8 +19,9 @@ photos:
 
 Get more information and register [here](https://coderefinery.org/events/2019-11-06-stockholm/).
 
-# Welcome to the first CodeRefinery hackathon!
 The idea behind this event is to bring together people who are working with code and/or data in research, in an informal environment where ideas can be exchanged, expertise shared and real work done!
+
+# Welcome to the first CodeRefinery hackathon!
 
 ### What you can do at the hackathon:
 
