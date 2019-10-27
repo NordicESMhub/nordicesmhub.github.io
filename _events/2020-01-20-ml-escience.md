@@ -2,7 +2,7 @@
 layout: event
 image: /images/events/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
 tags: [machine learning, workshop, team, training]
-title: 'CodeRefinery hackathon in Stockholm'
+title: 'Workshop Machine Learning for Research'
 description: 'January, 20-24, 2020'
 starts: 2020-01-20
 ends: 2020-01-24

@@ -4,8 +4,8 @@ image: https://coderefinery.org/assets/img/logos/coderefinery.png
 tags: [coderefinery, hackathon, training]
 title: 'CodeRefinery hackathon in Stockholm'
 description: 'November, 6-7, 2019'
-starts: 2020-11-06
-ends: 2020-11-07
+starts: 2019-11-06
+ends: 2019-11-07
 location:
   city: Stockholm
   region: Stockholm
