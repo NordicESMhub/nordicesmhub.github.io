@@ -55,7 +55,7 @@ Presentation of case studies, discussion, and questions and answers session
 ### How to register?
 
 - [Register to Copernicus Registration Portlet](https://uls.climate.copernicus.eu/web/learning/registration)
-- Login to Copernicus learning portal and register to this event [here](https://uls.climate.copernicus.eu/dashboard?p_p_id=com_arcusys_valamis_training_events_wrappers_portlets_TrainingEventsPortletWrapper&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&p_p_auth=IG3GQRiJ&_com_arcusys_valamis_training_events_wrappers_portlets_TrainingEventsPortletWrapper_training_event_id=7997581&_com_arcusys_valamis_training_events_wrappers_portlets_TrainingEventsPortletWrapper_referer=https%3A%2F%2Fuls.climate.copernicus.eu%2Fgroup%2Flearning%2Fdashboard).
+- Login to Copernicus learning portal and register to the event.
 
 ### Questions? 
 
