@@ -2,7 +2,7 @@
 layout: event
 image: /images/events/jon-flobrant-jxfe3orC4G8-unsplash.jpg
 tags: [Reanalysis, Copernicus, Climate, Training]
-title: 'Norway/Sweden Climate Data Store training for professionals and students'
+title: 'User workshop on Copernicus regional reanalysis for Europe'
 description: 'June, 4, 2020'
 starts: 2020-06-04
 ends: 2020-06-04
