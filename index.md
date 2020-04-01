@@ -6,10 +6,10 @@ image: /images/miguel-a-amutio-688753-unsplash.jpg
 caption: Photo by Miguel A. Amutio on Unsplash
 caption_url: https://unsplash.com/photos/_uERVMle1SU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 widget1:
-  title: "Learn about Climate in the Nordics"
-  url: '/climate'
-  image: /images/widget-2-302x182.jpg
-  text: 'The climate in the Nordic countries.'
+  title: "Nordic Collaboration on e-Infrastructures for Earth System Modeling"
+  url: '/nicest'
+  image: /images/widget-8-302x182.jpg
+  text: 'Learn about NeIC NICEST-2 project'
 widget2:
   title: "Discover Earth System Models"
   url: '/documentation/models'
