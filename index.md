@@ -24,7 +24,7 @@ widget4:
   title: "Climate Analysis"
   url: '/analysis'
   image: /images/widget-1-302x182.jpg
-  text: 'Run, Analyze, Visualize and Learn Panoply, ESMValTool, JupyterLab for Climate.'
+  text: 'Run, Analyze and Visualize. <br> Learn Panoply, ESMValTool, JupyterLab for Climate.'
 widget5:
   title: "Contribute"
   url: '/CONTRIBUTING'
