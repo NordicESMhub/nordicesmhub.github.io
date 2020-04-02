@@ -21,8 +21,8 @@ widget3:
   image: /images/widget-6-302x182.jpg
   text: 'WCRP Coupled Model Intercomparison Project'
 widget4:
-  title: "Go to Galaxy Climate/Europe"
-  url: 'https://climate.usegalaxy.eu/'
+  title: "Climate Analysis with Galaxy Climate/Europe"
+  url: '/analysis'
   image: /images/widget-1-302x182.jpg
   text: 'Run, Analyze and Visualize.'
 widget5:
