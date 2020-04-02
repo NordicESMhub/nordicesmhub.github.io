@@ -21,10 +21,10 @@ widget3:
   image: /images/widget-6-302x182.jpg
   text: 'WCRP Coupled Model Intercomparison Project'
 widget4:
-  title: "Climate Analysis with Galaxy Climate/Europe"
+  title: "Climate Analysis"
   url: '/analysis'
   image: /images/widget-1-302x182.jpg
-  text: 'Run, Analyze and Visualize.'
+  text: 'Run, Analyze, Visualize and Learn Panoply, ESMValTool, JupyterLab for Climate.'
 widget5:
   title: "Contribute"
   url: '/CONTRIBUTING'
