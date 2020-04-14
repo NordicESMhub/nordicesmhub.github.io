@@ -7,7 +7,7 @@ caption: Photo by Miguel A. Amutio on Unsplash
 caption_url: https://unsplash.com/photos/_uERVMle1SU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 widget1:
   title: "Nordic Collaboration on e-Infrastructures for Earth System Modeling"
-  url: '/nicest'
+  url: 'https://nordicesmhub.github.io/nicest2/'
   image: /images/widget-8-302x182.jpg
   text: 'Learn about NeIC NICEST-2 project'
 widget2:
