@@ -18,7 +18,7 @@ photos:
   license: CC-BY-SA
 ---
 
-The aim of this course is to demonstrate to and familiarize the workshop participants with best practices and tools in modern research software development. The main focus is on professional tools for efficiently developing and maintaining research software. Since most research code is developed in a collaborative setting, we will discuss tools and workflows which facilitate this process. Most of the content is also relevant to a single developer.
+The aim of this course is to familiarize the workshop participants with best practices and tools in modern research software development. The main focus is on professional tools for efficiently developing and maintaining research software. Since most research code is developed in a collaborative setting, we will discuss tools and workflows which facilitate this process. Most of the content is also relevant to a single developer.
 
 # Information
 
