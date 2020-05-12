@@ -4,8 +4,8 @@ image: /images/events/coderefinery/workshop.png
 tags: [CodeRefinery, training]
 title: 'Online CodeRefinery workshop'
 description: 'May, 25 - June, 4 2020'
-starts: 2019-05-25
-ends: 2019-06-04
+starts: 2020-05-25
+ends: 2020-06-04
 location:
   city: online
   region: online
