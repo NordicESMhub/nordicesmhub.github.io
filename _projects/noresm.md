@@ -7,4 +7,4 @@ description: Norwegian Earth System Model
 
 # NorESM
 
-NorESM is derived from [CESM](http://www.cesm.ucar.edu/) and the main documentation can be found [here](https://noresm-docs.readthedocs.io/en/latest/).
+NorESM is derived from [CESM](http://www.cesm.ucar.edu/) and the main documentation can be found [here](https://noresm-docs.readthedocs.io/en/noresm2/).
