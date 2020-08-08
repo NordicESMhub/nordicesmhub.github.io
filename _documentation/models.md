@@ -27,5 +27,7 @@ We will give here a list of relevant models we use in the Nordic countries.
 
 # FLEXPART
 
+[FLexpart](https://www.flexpart.eu) is a Lagrangian Particle Dispersion Model. It supports NorESM input winds in addition to the standard ECMWF IFS. 
+
 # OpenIFS
 
