@@ -2,7 +2,7 @@
 layout: event
 image: /images/events/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
 tags: [GPU, Climate, Training]
-title: 'NorESM User Workshop 2020'
+title: 'CSC GPU hackathon'
 description: '4 day (26 october 2020 - 4 november 2020) intensive hands-on events'
 starts: 2020-10-26
 ends: 2020-11-04
