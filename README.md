@@ -8,7 +8,7 @@ Source for the Nordic ESM Hub Website (nordicesmhub.github.io). It is maintained
 
 [![NordicESMhub chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nordicesmhub.zulipchat.com/)
 
-[![conduct-badge][]][link_conduct]
+[![Code of conduct](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-code%20of%20conduct-blue)](https://github.com/NordicESMhub/nordicesmhub.github.io/blob/master/CODE_OF_CONDUCT.md)
 
 ## Welcome!
 
