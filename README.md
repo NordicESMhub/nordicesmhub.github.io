@@ -8,6 +8,7 @@ Source for the Nordic ESM Hub Website (nordicesmhub.github.io). It is maintained
 
 [![NordicESMhub chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nordicesmhub.zulipchat.com/)
 
+[![conduct-badge][]][link_conduct]
 
 ## Welcome!
 
@@ -125,3 +126,4 @@ Most pictures are from [Unsplash](https://unsplash.com/).
 [link_AnneFouilloux]: https://github.com/annefou
 [link_BereniceBatut]: http://bebatut.fr/
 [link_BjornGruning]: https://github.com/bgruening
+[link_conduct]: https://github.com/NordicESMhub/nordicesmhub.github.io/blob/master/CODE_OF_CONDUCT.md
