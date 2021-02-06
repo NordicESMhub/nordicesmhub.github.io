@@ -11,30 +11,31 @@ widget1:
   image: /images/widget-8-302x182.jpg
   text: 'Learn about NeIC NICEST-2 project'
 widget2:
+  title: "H2020 RELIANCE Project"
+  url: ''
+  image: /images/widget-reliance-302x182.jpg
+  text: 'Research Lifecycle Management technologies for Earth Science Communities and Copernicus users in EOSC '
+widget3:
   title: "Discover Earth System Models"
   url: '/documentation/models'
   image: /images/widget-7-302x182.jpg
   text: 'Climate models in use in the Nordic countries'
-widget3:
+widget4:
   title: "CMIP"
   url: 'https://www.wcrp-climate.org/wgcm-cmip'
   image: /images/widget-6-302x182.jpg
   text: 'WCRP Coupled Model Intercomparison Project'
-widget4:
+widget5:
   title: "Climate Analysis"
   url: '/analysis'
   image: /images/widget-1-302x182.jpg
   text: 'Run, Analyze and Visualize. <br> Learn Panoply, ESMValTool, JupyterLab for Climate.'
-widget5:
+widget6:
   title: "Contribute"
   url: '/CONTRIBUTING'
   image: /images/widget-4-302x182.jpg
   text: '<a href="https://nordicesmhub.zulipchat.com/"><img src="https://img.shields.io/badge/join%20us-on%20zulip-blue.svg"></a> <br> Help us to monitor climate in the Nordic and to build a Nordic Infrastructure for Earth System Modeling.'
-widget6:
-  title: "NordicESMHub newsletter"
-  url: 'https://tinyletter.com/NordicESMHub/subscribe'
-  image: /images/widget-5-302x182.jpg
-  text: 'Subscribe to the Nordic Earth System Modeling Hub newsletter.'
+  
 ---
 
 
