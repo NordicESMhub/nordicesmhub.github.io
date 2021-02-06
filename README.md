@@ -6,8 +6,6 @@ Source for the Nordic ESM Hub Website (nordicesmhub.github.io). It is maintained
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![NordicESMhub chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nordicesmhub.zulipchat.com/)
-
 [![Code of conduct](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-code%20of%20conduct-blue)](https://github.com/NordicESMhub/nordicesmhub.github.io/blob/master/CODE_OF_CONDUCT.md)
 
 ## Welcome!
@@ -91,9 +89,6 @@ Please note that it's very important to us that we maintain a positive and suppo
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) 
 at this github repository because then we can get right on it. But you can also contact us on 
 [twitter](https://twitter.com/AnneFouilloux).
-
-You can also hang out, ask questions and share stories in the 
-[NordicESMhub zulip](https://nordicesmhub.zulip.org) on Zulip.
 
 ## Find out more
 

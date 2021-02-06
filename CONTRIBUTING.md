@@ -7,9 +7,6 @@ image: /images/about.jpg
 # Contributing
 
 
-[![NordicESMhub chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nordicesmhub.zulipchat.com/)
-
-
 
 [Nordic Earth System Modeling hub][nordicesmhub-site] is an open source project,
 and we welcome contributions of all kinds:
@@ -138,13 +135,6 @@ Additionally, please only work from your newly-created branch(es) and *not*
 your clone of the originating `master` branch.
 
 
-## Other Resources
-
-General discussion of [Nordic Earth System Modeling hub][nordicesmhub-site]
-happens on the [Nordic ESM hub zulip][nordicesmhub-zulip],
-which everyone is welcome to join.
-
-[nordicesmhub-zulip]: https://nordicesmhub.zulipchat.com/
 [nordicesmhub-site]: https://nordicesmhub.github.io/
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/

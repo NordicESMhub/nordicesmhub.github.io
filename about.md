@@ -82,5 +82,5 @@ we ask that you follow our [code of conduct]({{ site.github.repository_url
 ### Want to join the Nordic Earth System Modeling Community?
 
 You are very welcomed and invited to join the community and participate in the upcoming events. 
-You can simply contact us at [{{ site.email|replace:'@','[at]' }}](mailto:{{ site.email }}) or chat with us on [Zulip]({{ site.zulip }})
+You can simply contact us at [{{ site.email|replace:'@','[at]' }}](mailto:{{ site.email }})
 
