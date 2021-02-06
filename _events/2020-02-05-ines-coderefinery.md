@@ -18,7 +18,7 @@ photos:
   license: CodeRefinery license
 ---
 
-<img src="https://coderefinery.org/assets/img/logos/coderefinery.png" width="30%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.mn.uio.no/geo/english/research/projects/ines/bilder/ines-250px.jpg">
+<img src="https://coderefinery.org/processed_images/95d96b4244c1bab700.png" width="30%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.mn.uio.no/geo/english/research/projects/ines/bilder/ines-250px.jpg">
 
 This hackathon is organized by [CodeRefinery](https://coderefinery.org/) and [INES](https://www.norceresearch.no/prosjekter/infrastructure-for-norwegian-earth-system-modelling-ines).
 
