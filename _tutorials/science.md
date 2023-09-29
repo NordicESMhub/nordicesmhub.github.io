@@ -16,7 +16,7 @@ As a part of the [EVA](https://www.nersc.no/project/eva) project, where scientis
 
 - [Getting your hands-on Climate data](https://nordicesmhub.github.io/climate-data-tutorial/)
 - [Interactive maps in the Jupyter notebook](https://carpentries-incubator.github.io/jupyter_maps/)
-
+- [The Climate and Agriculture Risk Visualization and Assessment (CAVA) online Platform](https://fao-cava.predictia.es/) 
 
 # Advanced
 
@@ -24,4 +24,5 @@ As a part of the [EVA](https://www.nersc.no/project/eva) project, where scientis
 - [The General circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/)
 - [e-science modeling and model evaluation tools for Climate science at high latitudes](https://nordicesmhub.github.io/NEGI-Andoya-2018) 
 - [Python for Dynamics and Evolution of Earth and Planets](https://nordicesmhub.github.io/deep_python/)
+- [Climate and Agriculture Risk Visualization and Assessment (CAVA) with R](https://risk-team.github.io/CAVAanalytics/articles/Introduction.html)
 
